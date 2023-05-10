@@ -1,4 +1,4 @@
-# Jupyter Notebook Template made for GitHub Codespaces
+# Jupyter Notebook Template for GitHub Codespaces
 This Python-based template repo allows you to use Jupyter Notebooks in [Github CodeSpaces](https://github.com/features/codespaces).
 
 ## Cloud-based Development
